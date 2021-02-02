@@ -58,11 +58,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     // sets properties of the textfields
     func setTextField (_ textField: UITextField, text: String) {
     
-    /* field.defaultTextAttributes = memeAttributes
-    field.adjustsFontSizeToFitWidth = true
-    field.textAlignment = .center
-    field.textAlignment = .center
-    field.text = toText */
+
         
         
         textField.defaultTextAttributes = memeAttributes
